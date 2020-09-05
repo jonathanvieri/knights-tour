@@ -86,7 +86,7 @@ def buttonSolve():
         return                                             # Get out of this function
 
     # Ask the user for confirmation to continue
-    confirm = messagebox.askokcancel('Continue?', 'Depends on the board size, this might take a while to find the solution. Continue?')
+    confirm = messagebox.askokcancel('Continue?', 'Depending on the board size, this might take a while to find the solution. Continue?')
     if confirm:
         # Clear scrolled text box
         txtBig.delete(1.0, tk.END)
