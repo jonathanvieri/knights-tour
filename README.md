@@ -1,4 +1,4 @@
-# SIT215_PBL_2_GROUP19
+# Knight's Tour
 The repo for SIT215 PBL Task 2 - Group 19
 
 Step by step tutorial:
